@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gsn-react-typescript-test/static/css/main.47ddde97.css",
+    "main.js": "/gsn-react-typescript-test/static/js/main.7a6d409a.js",
+    "static/js/787.97d9c57a.chunk.js": "/gsn-react-typescript-test/static/js/787.97d9c57a.chunk.js",
+    "index.html": "/gsn-react-typescript-test/index.html",
+    "main.47ddde97.css.map": "/gsn-react-typescript-test/static/css/main.47ddde97.css.map",
+    "main.7a6d409a.js.map": "/gsn-react-typescript-test/static/js/main.7a6d409a.js.map",
+    "787.97d9c57a.chunk.js.map": "/gsn-react-typescript-test/static/js/787.97d9c57a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ddde97.css",
+    "static/js/main.7a6d409a.js"
+  ]
+}
