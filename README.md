@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It uses Typescript.
+
+Also, this project uses css modules, styled components, and is built using the Material Design open source component library.
 
 ## Available Scripts
 
