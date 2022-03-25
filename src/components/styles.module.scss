@@ -1,0 +1,57 @@
+.card {
+  border-radius: 30px;
+  margin: 1rem;
+  width: 29vw;
+  img {
+    height: 20vw;
+  }
+  @media (max-width: 730px) {
+    width: 77vw;
+    min-width: 270px;
+    img {
+      height: 30vw;
+      min-height: 250px;
+    }
+  }
+  @media (min-width: 500px) and (max-width: 730px) {
+    width: 45vw;
+    min-width: none;
+  }
+  @media (max-width: 640px) {
+    width: 100%;
+    max-width: none;
+  }
+
+}
+.fullWidthCard {
+  @extend .card;
+  width: 100%;
+
+  @media (min-width: 500px) {
+    max-width: none;
+    img {
+      height: 43vw;
+      max-height: 510px;
+    }
+  }
+}
+
+section {
+  display: flex;
+  padding: 2rem 0;
+}
+
+.cardsList {
+  @extend section;
+  justify-content: space-between;
+
+  @media (max-width: 730px) {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+.topCard {
+  @extend section;
+  justify-content: center;
+}
