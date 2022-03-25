@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It uses Typescript.
 
-Also, this project uses css modules, styled components, and is built using the Material Design open source component library.
+Also, this project uses [css modules](https://github.com/css-modules/css-modules), [styled components](https://github.com/styled-components/styled-components), and is built using the [Material Design](https://github.com/mui) open source component library.
 
 ## Available Scripts
 
