@@ -7,6 +7,8 @@ Also, this project uses [css modules](https://github.com/css-modules/css-modules
 
 Node v14.19.1 is required to install and run the project due to ESLint dependency.
 
+Live project at Github Pages: https://hlight.github.io/gsn-react-typescript-test/
+
 ## Available Scripts
 
 In the project directory, you can run:
